@@ -1,0 +1,41 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+.section-1{
+    display: flex;
+    width: 100%;
+}
+button{
+    padding: 10px 30px;
+    background-color: sandybrown;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+.section-1-heading{
+    font-size: 50px;
+    border-left: 5px solid orange;
+    padding-left: 10px;
+    
+}
+.heading-2nd-part{
+    color: tomato;
+}
+.div-1-half-width{
+    width: 50%;
+}
+.text-div-1{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.div-1-half-width img{
+    width: 80%;
+    padding-left: 50px;
+}
+.section-1-h5{
+    margin-top: 50px;
+}
+.section-2-heading{
+    text-align: center;
+    font-size: 40px;
+}
