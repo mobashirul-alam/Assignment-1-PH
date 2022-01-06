@@ -37,5 +37,33 @@ button{
 }
 .section-2-heading{
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
+}
+.section-2-three-box{
+    display: flex;
+    width: 100%;
+}
+.section-2-box-shapes{
+    border-radius: 15px;
+    margin: 50px;
+    width: 500px;
+}
+.section-2-illustrators{
+    width: 125px;
+    padding-top: 10px;
+
+}
+.section-2-box-text-part{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+.mission{
+    background-color: plum;
+}
+.vission{
+    background-color: powderblue;
+}
+.goal{
+    background-color: peachpuff;
 }
