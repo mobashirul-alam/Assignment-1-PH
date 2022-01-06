@@ -1,7 +1,7 @@
 html{
     font-family: 'Open Sans', sans-serif;
 }
-.section-1{
+.section-1-3-4{
     display: flex;
     width: 100%;
 }
@@ -66,4 +66,39 @@ button{
 }
 .goal{
     background-color: peachpuff;
+}
+.extra-margin-section-3-4{
+    margin-top: 75px;
+}
+.section-3-4-heading{
+    font-size: 50px;
+}
+.section-3-image{
+    width: 500px;
+    padding-left: 75px;
+    margin-left: 50px;
+}
+.coding-no-limit{
+    padding-left: 50px;
+}
+.coding-no-limit p{
+    padding-right: 40px;
+}
+.background-section-3{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 300px;
+}
+.bottom-margin-section-4{
+    margin-bottom: 100px;
+}
+.background-section-4{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+}
+.background-section-4 img{
+    padding-bottom: 50px;
 }
